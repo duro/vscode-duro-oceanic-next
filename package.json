@@ -1,0 +1,22 @@
+{
+    "name": "duro-oceanic-next",
+    "displayName": "duro-oceanic-next",
+    "description": "Hands down, the most bad ass theme ever created",
+    "version": "0.0.1",
+    "publisher": "duro",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Duro Oceanic Next",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Duro Oceanic Next-color-theme.json"
+            }
+        ]
+    }
+}
